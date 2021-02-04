@@ -1,2 +1,1 @@
-# resume
-#resume created using HTML CSS 
+# portfolio created using HTML and CSS
